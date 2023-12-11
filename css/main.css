@@ -1,0 +1,25 @@
+body {
+    padding: 40px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    background-color: #fff;
+}
+
+.inner-box {
+    height: 50%;
+    border: 1px solid black;
+}
+
+.inner-box:first-child {
+    width: 25%;
+}
+
+.inner-box:last-child {
+    width: 75%;
+    border-left: none;
+}
