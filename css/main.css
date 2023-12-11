@@ -1,17 +1,18 @@
 body {
-    padding: 40px;
+    padding: 3vh;
+    padding-top: 2vh;
 }
 
 .box {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    height: 100vh;
+    height: 80vh;
     background-color: #fff;
 }
 
 .inner-box {
-    height: 50%;
+    height: 100%;
     border: 1px solid black;
 }
 
@@ -23,3 +24,4 @@ body {
     width: 75%;
     border-left: none;
 }
+
