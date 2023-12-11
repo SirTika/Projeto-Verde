@@ -18,7 +18,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.55);
     z-index: 1;
 }
 
@@ -32,11 +32,12 @@
 
 .scroll button {
     position: absolute;
-    top: 35%;
+    top: 31%;
     left: 50%;
     transform: translate(-50%, 50%);
     background: rgb(0, 0, 0, 0);
     color: white;
     border: none;
+    font-size: 20px;
     z-index: 2;
 }

@@ -3,6 +3,10 @@ body {
     padding-top: 2vh;
 }
 
+img {
+    user-select: none;
+}
+
 .box {
     display: flex;
     justify-content: center;
