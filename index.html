@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/scroll.css">
+    <link rel="stylesheet" href="css/search.css">
 </head>
 <body>
 <header>
@@ -21,52 +22,54 @@
     <div class="box">
         <!--Caixa da esquerda/cima (pesquisa)-->
         <div class="inner-box">
-            Caixa de pesquisa
+            <form action="">
+                <input type="text" placeholder="Buscar..." name="search">
+            </form>
         </div>
         <!--Caixa da esquerda/baixo (scroll)-->
         <div class="inner-box">
             <div class="scroll">
-                <div>
+                <div class="item" data-name="Girassol">
                     <img src="assets/bgGirassol.jpg" alt="Girassol">
                     <a href="https://www.google.com" target="_blank"><button>Girassol</button></a>
                 </div>
-
-                <div>
+        
+                <div class="item" data-name="Alface">
                     <img src="assets/bgAlface.jpg" alt="Alface">
                     <a href="https://www.google.com" target="_blank"><button>Alface</button></a>
                 </div>
                 
-                <div>
+                <div class="item" data-name="Manjericão">
                     <img src="assets/bgManjericão.jpg" alt="Manjericão">
                     <a href="https://www.google.com" target="_blank"><button>Manjericão</button></a>
                 </div>
                 
-                <div>
+                <div class="item" data-name="Morango">
                     <img src="assets/bgMorango.jpg" alt="Morango">
                     <a href="https://www.google.com" target="_blank"><button>Morango</button></a>
                 </div>
                 
-                <div>
+                <div class="item" data-name="Suculenta">
                     <img src="assets/bgSuculenta.jpg" alt="Suculenta">
                     <a href="https://www.google.com" target="_blank"><button>Suculenta</button></a>
                 </div>
                 
-                <div>
+                <div class="item" data-name="Espada de São Jorge">
                     <img src="assets/bgEspada.jpg" alt="Espada de São Jorge">
                     <a href="https://www.google.com" target="_blank"><button>Espada de São Jorge</button></a>
                 </div>
                 
-                <div>
+                <div class="item" data-name="Violeta">
                     <img src="assets/bgVioleta.jpg" alt="Violeta">
                     <a href="https://www.google.com" target="_blank"><button>Violeta</button></a>
                 </div>
                 
-                <div>
+                <div class="item" data-name="Samambaia">
                     <img src="assets/bgSamambaia.jpg" alt="Samambaia">
                     <a href="https://www.google.com" target="_blank"><button>Samambaia</button></a>
                 </div>
                 
-                <div>
+                <div class="item" data-name="Tomate">
                     <img src="assets/bgTomate.jpg" alt="Tomate">
                     <a href="https://www.google.com" target="_blank"><button>Tomate</button></a>
                 </div>
@@ -77,5 +80,7 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit qui ea repellat debitis praesentium provident ab adipisci dolores ipsa, fugiat consectetur odio id esse dolorum optio reprehenderit eius sed? Cum.
         </div>
     </div>
+
+    <script src="/js/search.js"></script>
 </body>
 </html>
