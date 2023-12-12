@@ -3,6 +3,16 @@
     flex-direction: column;
     overflow-y: auto;
     height: 100%;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(155, 155, 155, 0.7) rgba(0, 0, 0, 0);
+}
+
+.scroll::-webkit-scrollbar {
+    width: 8px;
+}
+
+.scroll::-webkit-scrollbar-thumb {
+    background-color: #0ed145;
 }
 
 .scroll div {
@@ -19,13 +29,18 @@
     left: 0;
     right: 0;
     background: rgba(0, 0, 0, 0.55);
+    transition: background 0.4s ease;
     z-index: 1;
+}
+
+.scroll div:hover::after {
+    background: rgba(0, 0, 0, 0.2);
 }
 
 .scroll img {
     display: block;
     width: 100%;
-    height: 140px;
+    height: 140.6px;
     margin: 0;
     object-fit: cover;
 }
@@ -39,7 +54,8 @@
     background: rgb(0, 0, 0, 0);
     color: white;
     border: none;
-    font-size: 20px;
+    cursor: pointer;
+    font-size: 25px;
     z-index: 2;
     display: flex;
     align-items: center;
