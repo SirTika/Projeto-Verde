@@ -7,3 +7,28 @@ input[type=text] {
     border-bottom: solid 1px black;
     outline: none;
 }
+
+.tagSearch {
+    background-color: rgb(187, 187, 187);
+    color: white;
+    border: none;
+    border-radius: 360px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 5px;
+    margin-top: 1.4vh;
+    cursor: pointer;
+}
+
+.tags {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4px; 
+}
+
+.selected {
+    background-color: #0ed145;
+}

@@ -1,3 +1,4 @@
+/* barra de pesquisa */
 document.querySelector('input[name="search"]').addEventListener('input', function(e) {
     var value = e.target.value.toLowerCase();
     document.querySelectorAll('.item').forEach(function(item) {
@@ -9,3 +10,36 @@ document.querySelector('input[name="search"]').addEventListener('input', functio
         }
     });
 });
+
+/* tags/filtro */
+function selectTag(button) {
+    var buttons = document.getElementsByClassName('tagSearch');
+    for (var i = 0; i < buttons.length; i++) {
+        if (buttons[i] !== button && buttons[i].innerHTML !== 'Iniciantes') {
+            buttons[i].classList.remove('selected');
+        }
+    }
+    button.classList.toggle('selected');
+    filterItems();
+}
+
+function toggleIniciantes(button) {
+    if (button.innerHTML === 'Iniciantes') {
+        button.classList.toggle('selected');
+        filterItems();
+    }
+}
+
+function filterItems() {
+    var items = document.getElementsByClassName('item');
+    var buttons = document.getElementsByClassName('tagSearch');
+    var selectedTags = Array.from(buttons).filter(button => button.classList.contains('selected')).map(button => button.innerHTML.toLowerCase());
+    for (var i = 0; i < items.length; i++) {
+        var itemTags = items[i].getAttribute('data-name').toLowerCase().split(' ');
+        if (selectedTags.every(tag => itemTags.includes(tag))) {
+            items[i].style.display = 'block';
+        } else {
+            items[i].style.display = 'none';
+        }
+    }
+}
