@@ -1,0 +1,41 @@
+                <article class="part1">
+                    <h1>Girassol</h1>
+                    <p>Cultivar girassóis é uma tarefa relativamente simples, tornando-os uma escolha popular para jardineiros de todos os níveis de experiência. Eles podem ser cultivados em vasos ou diretamente no solo.</p>
+                    
+                    <p>O girassol pode ser plantado em vasos médios e grandes, que tenham entre 30 a 40 cm de largura ou diâmetro. No solo, os girassóis podem ser plantados em canteiros individuais ou em fileiras.</p>
+        
+                    <p>Para plantar um girassol, você precisa de um local ensolarado e um solo bem drenado. As sementes devem ser plantadas a uma profundidade de aproximadamente 2,5 cm, e se você estiver plantando mais de um girassol, deve deixar uma distância de pelo menos 15 cm entre cada planta. Após o plantio, é importante manter o solo úmido, mas não encharcado.</p>
+                    <article class="img-box">
+                        <img src="assets/bgGirassol.jpg" alt="Girassol">
+                    </article>
+                </article>
+                
+                <article class="part2">
+                    <h2>Passo a passo</h2>
+        
+                    <h3>Materiais necessários:</h3>
+                    <ul>
+                        <li>Sementes de girassol</li>
+                        <li>Vaso ou espaço no jardim</li>
+                        <li>Terra</li>
+                        <li>Água</li>
+                        <li>Pá de jardinagem</li>
+                    </ul>
+        
+                    <ol>
+                        <li>Escolha o local: Escolha um local que receba bastante luz solar durante o dia, pois os girassóis precisam de pelo menos seis horas de luz solar direta por dia para crescerem saudáveis.</li>
+                        <br>
+                        <li>Prepare o solo: Se você estiver plantando em um vaso, encha-o com terra até cerca de 2,5 cm da borda. Se estiver plantando no jardim, remova quaisquer ervas daninhas ou pedras e solte a terra com uma pá de jardinagem.</li>
+                        <br>
+                        <li>Plante as sementes: Faça um buraco de cerca de 2,5 cm de profundidade no solo. Coloque uma semente de girassol no buraco e cubra-a com terra. Se estiver plantando mais de um girassol, deixe uma distância de pelo menos 15 cm entre cada semente para dar espaço para as plantas crescerem.</li>
+                        <br>
+                        <li>Regue as sementes: Regue as sementes imediatamente após o plantio, mas tenha cuidado para não encharcar o solo. Os girassóis gostam de solo úmido, mas não encharcado.</li>
+                        <br>
+                        <li>Cuidado contínuo: Continue regando as plantas regularmente, especialmente durante períodos de seca. Você verá os primeiros brotos em uma a duas semanas.</li>
+                        <br>
+                        <li>Acompanhe o crescimento: Os girassóis podem levar de 70 a 100 dias para florescer, dependendo da variedade. Acompanhe o crescimento e aproveite a beleza dos seus girassóis!</li>
+                    </ol>
+        
+                    <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar girassóis em pouco tempo!</p>
+                    <p>Em caso de duvidas ou sugestões contate: <a href="mailto:email@gmail.com">email@gmail.com</a></p>
+                </article>
