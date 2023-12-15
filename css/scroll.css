@@ -14,7 +14,7 @@
 }
 
 .scroll::-webkit-scrollbar-track {
-    background-color: #ffffff;
+    background-color: #e2e2e2;
 }
 
 .scroll::-webkit-scrollbar-thumb {

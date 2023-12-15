@@ -32,6 +32,8 @@ img {
 }
 
 .inner-box:last-child {
+    position: relative;
+    overflow-y: auto;
     border-left: none;
     grid-column: 2;
     grid-row: 1 / 3;
