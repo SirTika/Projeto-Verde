@@ -1,6 +1,15 @@
+@font-face {
+    font-family: 'inter';
+    src: url('../fonts/inter/Inter-VariableFont_slnt,wght.ttf');
+    format: ('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
     padding: 3vh;
     padding-top: 2vh;
+    font-family: 'inter';
 }
 
 img {
@@ -23,7 +32,6 @@ img {
     border-bottom: none;
     grid-column: 1;
     grid-row: 1;
-    overflow-wrap: break-word;
 }
 
 .inner-box:nth-child(2) {
