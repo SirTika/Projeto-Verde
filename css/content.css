@@ -17,6 +17,14 @@
     background-color: white;
 }
 
+.dificuldadeNivel {
+    color: #0ed145;
+}
+
+.dificuldade {
+    font-style: italic;
+    line-height: 0;
+}
 
 .inner-box:last-child {
     overflow-y: auto;

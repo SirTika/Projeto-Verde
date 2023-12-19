@@ -1,10 +1,12 @@
                 <article class="part1">
                     <h1>Alface</h1>
-                    <p>Cultivar alface é uma tarefa relativamente simples, tornando-as uma escolha popular para jardineiros de todos os níveis de experiência. Elas podem ser cultivadas em vasos ou diretamente no solo.</p>
-
-                    <p>A alface pode ser plantada em vasos médios e grandes, que tenham entre 30 a 40 cm de largura ou diâmetro. No solo, as alfaces podem ser plantadas em canteiros individuais ou em fileiras.</p>
+                    <p class="dificuldade">Dificuldade: <span class="dificuldadeNivel">Facil</span></p>
+                    <br> 
+                    <p>Cultivar alface é uma tarefa muito fácil e prazerosa, que pode ser feita em pequenos espaços, como varandas, sacadas ou jardineiras. A alface é uma hortaliça que pode ser consumida em saladas, sanduíches, sopas e até mesmo sucos.</p>
+                    
+                    <p>A alface pode ser plantada em vasos de plástico, cerâmica ou barro, que tenham entre 20 a 30 cm de largura ou diâmetro. No solo, a alface pode ser plantada em canteiros rasos ou em sulcos.</p>
     
-                    <p>Para plantar uma alface, você precisa de um local ensolarado e um solo bem drenado. As sementes devem ser plantadas a uma profundidade de aproximadamente 2,5 cm, e se você estiver plantando mais de uma alface, deve deixar uma distância de pelo menos 15 cm entre cada planta. Após o plantio, é importante manter o solo úmido, mas não encharcado.</p>
+                    <p>Para plantar uma alface, você precisa de um local que receba luz solar indireta, pois a alface não tolera calor excessivo. O solo deve ser rico em matéria orgânica, solto e bem drenado. As sementes devem ser plantadas a uma profundidade de cerca de 0,5 cm, e se você estiver plantando mais de uma alface, deve deixar uma distância de pelo menos 20 cm entre cada planta. Após o plantio, é importante manter o solo úmido, mas não encharcado.</p>
                     <article class="img-box">
                         <img src="assets/bgAlface.jpg" alt="Alface">
                     </article>
@@ -23,19 +25,19 @@
                     </ul>
         
                     <ol>
-                        <li>Escolha o local: Escolha um local que receba bastante luz solar durante o dia, pois as alfaces precisam de pelo menos seis horas de luz solar direta por dia para crescerem saudáveis.</li>
+                        <li>Escolha o local: Escolha um local que receba luz solar indireta, pois a alface não tolera calor excessivo. Evite locais que fiquem expostos ao vento ou à chuva forte.</li>
                         <br>
-                        <li>Prepare o solo: Se você estiver plantando em um vaso, encha-o com terra até cerca de 2,5 cm da borda. Se estiver plantando no jardim, remova quaisquer ervas daninhas ou pedras e solte a terra com uma pá de jardinagem.</li>
+                        <li>Prepare o solo: Se você estiver plantando em um vaso, encha-o com uma mistura de terra, composto e areia, deixando cerca de 2 cm de espaço livre no topo. Se estiver plantando no jardim, remova quaisquer ervas daninhas ou pedras e solte a terra com uma pá de jardinagem.</li>
                         <br>
-                        <li>Plante as sementes: Faça um buraco de cerca de 2,5 cm de profundidade no solo. Coloque uma semente de alface no buraco e cubra-a com terra. Se estiver plantando mais de uma alface, deixe uma distância de pelo menos 15 cm entre cada semente para dar espaço para as plantas crescerem.</li>
+                        <li>Plante as sementes: Faça um buraco de cerca de 0,5 cm de profundidade no solo. Coloque uma semente de alface no buraco e cubra com uma fina camada de terra. Se estiver plantando mais de uma alface, deixe uma distância de pelo menos 20 cm entre cada semente para dar espaço para as plantas crescerem.</li>
                         <br>
-                        <li>Regue as sementes: Regue as sementes imediatamente após o plantio, mas tenha cuidado para não encharcar o solo. As alfaces gostam de solo úmido, mas não encharcado.</li>
+                        <li>Regue as sementes: Regue gentilmente as sementes após o plantio, mas tenha cuidado para não encharcar o solo. A alface gosta de solo úmido, mas não encharcado.</li>
                         <br>
-                        <li>Cuidado contínuo: Continue regando as plantas regularmente, especialmente durante períodos de seca. Você verá os primeiros brotos em uma a duas semanas.</li>
+                        <li>Cuidado contínuo: Continue regando as plantas regularmente, especialmente durante períodos de seca. Você verá os primeiros brotos em cerca de uma semana.</li>
                         <br>
-                        <li>Acompanhe o crescimento: As alfaces podem levar de 70 a 100 dias para florescer, dependendo da variedade. Acompanhe o crescimento e aproveite a beleza das suas alfaces!</li>
+                        <li>Acompanhe o crescimento: A alface pode levar de 45 a 60 dias para ficar pronta para a colheita, dependendo da variedade. Acompanhe o crescimento e colha as folhas conforme elas ficam grandes e tenras.</li>
                     </ol>
         
-                    <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar alfaces em pouco tempo!</p>
-                    <p>Em caso de duvidas ou sugestões contate: <a href="mailto:email@gmail.com">email@gmail.com</a></p>
+                    <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar alface em pouco tempo!</p>
+                    <p>Em caso de dúvidas ou sugestões, contate: <a href="mailto:email@gmail.com">email@gmail.com</a></p>
                 </article>
