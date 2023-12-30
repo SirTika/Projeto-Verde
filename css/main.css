@@ -1,11 +1,3 @@
-@font-face {
-    font-family: 'inter';
-    src: url('../fonts/inter/Inter.ttf');
-    format: ('opentype');
-    font-weight: normal;
-    font-style: normal;
-}
-
 body {
     padding: 3vh;
     padding-top: 2vh;
