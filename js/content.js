@@ -10,6 +10,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 fileName = 'txts/girassol.txt';
             } else if (item.dataset.name === 'Alface Verduras Iniciantes') {
                 fileName = 'txts/alface.txt';
+            } else if (item.dataset.name === 'Manjericão Verduras Iniciantes') {
+                fileName = 'txts/manjericao.txt';
+            } else if (item.dataset.name === 'Morango Frutas Iniciantes') {
+                fileName = 'txts/morango.txt';
             }
             // e assim por diante para os outros itens
 

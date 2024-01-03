@@ -1,0 +1,42 @@
+                <article class="part1">
+                    <h2>Manjericão</h2>
+                    <p class="dificuldade">Dificuldade: <span class="dificuldadeNivel">Fácil</span></p>
+                    <br>
+                    <p>Cultivar manjericão é uma tarefa muito prazerosa, pois além de ser uma erva aromática e saborosa, também traz benefícios para a saúde. O manjericão pode ser cultivado em vasos ou diretamente no solo, desde que tenha boa exposição ao sol.</p>
+
+                    <p>O manjericão pode ser plantado em vasos pequenos ou médios, que tenham entre 15 a 25 cm de largura ou diâmetro. No solo, o manjericão pode ser plantado em canteiros individuais ou em grupos, formando bordaduras ou maciços.</p>
+        
+                    <p>Para plantar um manjericão, você precisa de um local ensolarado e um solo fértil e bem drenado. As sementes ou mudas devem ser plantadas a uma profundidade de aproximadamente 1 cm, e se você estiver plantando mais de um manjericão, deve deixar uma distância de pelo menos 20 cm entre cada planta. Após o plantio, é importante manter o solo úmido, mas não encharcado.</p>
+                    <article class="img-box">
+                        <img src="assets/bgManjericão.jpg" alt="Manjericão">
+                    </article>
+                </article>
+                
+                <article class="part2">
+                    <h1>Materiais necessários</h1>
+                    <ul>
+                        <li>Sementes ou mudas de manjericão</li>
+                        <li>Vaso ou espaço no jardim</li>
+                        <li>Terra</li>
+                        <li>Água</li>
+                        <li>Pá de jardinagem</li>
+                    </ul>
+
+                    <h1>Passo a passo</h1>
+                    <ol>
+                        <li>Escolha o local: Escolha um local que receba pelo menos quatro horas de luz solar direta por dia, pois o manjericão precisa de calor para crescer bem. Evite locais com vento forte ou sombra excessiva.</li>
+                        <br>
+                        <li>Prepare o solo: Se você estiver plantando em um vaso, encha-o com terra até cerca de 2 cm da borda. Se estiver plantando no jardim, remova quaisquer ervas daninhas ou pedras e solte a terra com uma pá de jardinagem. Você pode misturar um pouco de adubo orgânico ou húmus de minhoca para enriquecer o solo.</li>
+                        <br>
+                        <li>Plante as sementes ou mudas: Faça um buraco de cerca de 1 cm de profundidade no solo. Coloque uma semente ou uma muda de manjericão no buraco e cubra-a com terra. Se estiver plantando mais de um manjericão, deixe uma distância de pelo menos 20 cm entre cada planta para dar espaço para elas se desenvolverem.</li>
+                        <br>
+                        <li>Regue as plantas: Regue as plantas logo após o plantio, mas tenha cuidado para não encharcar o solo. O manjericão gosta de solo úmido, mas não encharcado. Regue novamente quando o solo estiver seco ao toque, mas não deixe que ele fique ressecado.</li>
+                        <br>
+                        <li>Cuidado contínuo: Continue regando as plantas regularmente, mas sem excesso. Você pode adubar o manjericão uma vez por mês com um fertilizante líquido diluído na água, seguindo as instruções do fabricante. Você também pode podar as pontas dos ramos para estimular o crescimento lateral e evitar que o manjericão floresça, pois isso diminui o sabor das folhas.</li>
+                        <br>
+                        <li>Colha as folhas: Você pode colher as folhas de manjericão a qualquer momento, mas o ideal é fazer isso pela manhã, quando elas estão mais frescas e aromáticas. Você pode usar as folhas frescas ou secas para temperar seus pratos favoritos, como molhos, saladas, massas, pizzas e muito mais!</li>
+                    </ol>
+        
+                    <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar manjericão em pouco tempo!</p>
+                    <p>Em caso de dúvidas ou sugestões, contate: <a href="mailto:projetoverde.suporte@gmail.com" target="_blank">projetoverde.suporte@gmail.com</a></p>
+                </article>

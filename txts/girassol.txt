@@ -1,6 +1,6 @@
                 <article class="part1">
-                    <h1>Girassol</h1>
-                    <p class="dificuldade">Dificuldade: <span class="dificuldadeNivel">Facil</span></p>
+                    <h2>Girassol</h2>
+                    <p class="dificuldade">Dificuldade: <span class="dificuldadeNivel">Fácil</span></p>
                     <br>
                     <p>Cultivar girassóis é uma tarefa relativamente simples, tornando-os uma escolha popular para jardineiros de todos os níveis de experiência. Eles podem ser cultivados em vasos ou diretamente no solo.</p>
                     
@@ -13,9 +13,7 @@
                 </article>
                 
                 <article class="part2">
-                    <h2>Passo a passo</h2>
-        
-                    <h3>Materiais necessários:</h3>
+                    <h1>Materiais necessários</h1>
                     <ul>
                         <li>Sementes de girassol</li>
                         <li>Vaso ou espaço no jardim</li>
@@ -23,7 +21,8 @@
                         <li>Água</li>
                         <li>Pá de jardinagem</li>
                     </ul>
-        
+
+                    <h1>Passo a passo</h1>
                     <ol>
                         <li>Escolha o local: Escolha um local que receba bastante luz solar durante o dia, pois os girassóis precisam de pelo menos seis horas de luz solar direta por dia para crescerem saudáveis.</li>
                         <br>
@@ -39,5 +38,5 @@
                     </ol>
         
                     <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar girassóis em pouco tempo!</p>
-                    <p>Em caso de duvidas ou sugestões contate: <a href="mailto:email@gmail.com">email@gmail.com</a></p>
+                    <p>Em caso de dúvidas ou sugestões, contate: <a href="mailto:projetoverde.suporte@gmail.com" target="_blank">projetoverde.suporte@gmail.com</a></p>
                 </article>
