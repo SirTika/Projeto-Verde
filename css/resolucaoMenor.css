@@ -1,0 +1,40 @@
+@media only screen and (max-width: 1000px), only screen and (max-height: 670px) {
+    .box {
+        display: flex;
+        flex-direction: column;
+    }
+/*barra de pesquisa e tags*/
+    .inner-box:first-child {
+        height: 93px;
+        flex: none;
+    }
+    
+    .tags {
+        display: flex;
+        flex-direction: row;
+        overflow-x: auto;
+    }
+
+/*carrossel*/
+    .inner-box:nth-child(2) {
+        height: 100px;
+        flex: none;
+    }
+
+    .scroll img {
+        height: 100px;
+        width: 300px;
+    }
+
+    .scroll {
+        display: flex;
+        flex-direction: row;
+        overflow-x: auto;
+    }
+
+/*conteudo*/
+    .inner-box:last-child {
+        flex-grow: 1;
+        overflow-y: auto;
+    }
+}

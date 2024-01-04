@@ -14,6 +14,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 fileName = 'txts/manjericao.txt';
             } else if (item.dataset.name === 'Morango Frutas Iniciantes') {
                 fileName = 'txts/morango.txt';
+            } else if (item.dataset.name === 'Suculenta Cactus Iniciantes') {
+                fileName = 'txts/suculenta.txt';
             }
             // e assim por diante para os outros itens
 
