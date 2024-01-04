@@ -2,6 +2,7 @@
     .box {
         display: flex;
         flex-direction: column;
+        height: 84vh;
     }
 
 /*barra de pesquisa e tags*/
@@ -20,7 +21,7 @@
 
 /*carrossel*/
     .inner-box:nth-child(2) {
-        height: 100px;
+        height: 120px;
         flex: none;
     }
 
@@ -50,5 +51,7 @@
     .inner-box:last-child {
         flex-grow: 1;
         overflow-y: auto;
+        border-top: none;
+        border-left: 1px solid;
     }
 }
