@@ -1,4 +1,7 @@
 nav img{
-    height: 60px;
+    height: 6vh;
     padding-bottom: 3vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }

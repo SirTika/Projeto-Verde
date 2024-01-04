@@ -3,6 +3,7 @@
         display: flex;
         flex-direction: column;
     }
+
 /*barra de pesquisa e tags*/
     .inner-box:first-child {
         height: 93px;
@@ -12,7 +13,9 @@
     .tags {
         display: flex;
         flex-direction: row;
+        flex-wrap: nowrap;
         overflow-x: auto;
+        overflow-y: hidden;
     }
 
 /*carrossel*/
@@ -30,6 +33,8 @@
         display: flex;
         flex-direction: row;
         overflow-x: auto;
+        overflow-y: hidden;
+        scrollbar-width: none;
     }
 
 /*conteudo*/
