@@ -48,7 +48,7 @@ form {
 }
 
 .inner-box:first-child::-webkit-scrollbar {
-    width: 8px;
+    width: 10px;
 }
 
 .inner-box:first-child::-webkit-scrollbar-track {

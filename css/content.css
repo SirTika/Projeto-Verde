@@ -28,13 +28,13 @@
 
 .inner-box:last-child {
     overflow-y: auto;
-    height: 100%;
+    height: 99.7%;
     scrollbar-width: thin;
     scrollbar-color: rgba(155, 155, 155, 0.7) rgba(0, 0, 0, 0);
 }
 
 .inner-box:last-child::-webkit-scrollbar {
-    width: 8px;
+    width: 10px;
 }
 
 .inner-box:last-child::-webkit-scrollbar-track {

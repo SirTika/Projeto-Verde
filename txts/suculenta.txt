@@ -6,7 +6,7 @@
 
                 <p>A suculenta pode ser plantada em qualquer recipiente que tenha furos no fundo para garantir a drenagem. O tamanho do recipiente vai depender da espécie e do número de plantas que você deseja colocar. No solo, a suculenta pode ser plantada em canteiros individuais ou em grupos, formando bordaduras ou maciços.</p>
     
-                <p>Para plantar uma suculenta, você precisa de um local ensolarado e um solo fértil e bem drenado. As mudas ou folhas devem ser plantadas a uma profundidade de aproximadamente 1 cm, e se você estiver plantando mais de uma suculenta, deve deixar uma distância de pelo menos 10 cm entre cada planta. Após o plantio, é importante manter o solo úmido, mas não encharcado.</p>
+                <p>Para plantar uma suculenta, você precisa de um local ensolarado e um solo fértil e bem drenado. As mudas ou folhas devem ser plantadas a uma profundidade de aproximadamente 1 cm, e se você estiver plantando mais de uma suculenta, deve deixar uma distância de pelo menos 10 cm entre cada planta.</p>
                 <article class="img-box">
                     <img src="assets/bgSuculenta.jpg" alt="Suculenta">
                 </article>

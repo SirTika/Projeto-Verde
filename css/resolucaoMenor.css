@@ -1,8 +1,9 @@
-@media only screen and (max-width: 1000px), only screen and (max-height: 570px) {
+@media only screen and (max-width: 1000px) {
     .box {
         display: flex;
         flex-direction: column;
         height: 84vh;
+        grid-template-rows: 35% 70%;
     }
 
 /*barra de pesquisa e tags*/
@@ -17,6 +18,10 @@
         flex-wrap: nowrap;
         overflow-x: auto;
         overflow-y: hidden;
+    }
+
+    .scroll::-webkit-scrollbar {
+        height: 10px;
     }
 
 /*carrossel*/
@@ -53,5 +58,11 @@
         overflow-y: auto;
         border-top: none;
         border-left: 1px solid;
+    }
+}
+
+@media only screen and (max-width: 1360px) {
+    .box {
+        grid-template-rows: 35% 70%;
     }
 }
