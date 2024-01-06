@@ -17,8 +17,16 @@
     background-color: white;
 }
 
-.dificuldadeNivel {
+.dificuldadeFacil {
     color: #0ed145;
+}
+
+.dificuldadeMedia {
+    color: #008ddf;
+}
+
+.dificuldadeDificil {
+    color: #ff5e00;
 }
 
 .dificuldade {

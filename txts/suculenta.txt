@@ -1,6 +1,6 @@
             <article class="part1">
                 <h2>Suculenta</h2>
-                <p class="dificuldade">Dificuldade: <span class="dificuldadeNivel">Fácil</span></p>
+                <p class="dificuldade">Dificuldade: <span class="dificuldadeFacil">Fácil</span></p>
                 <br>
                 <p>Cultivar suculentas é uma tarefa muito simples, pois elas são plantas que armazenam água em suas folhas e caules, tornando-as muito resistentes e adaptáveis. Elas podem ser cultivadas em vasos, canos de PVC, xícaras, latas ou diretamente no solo.</p>
 

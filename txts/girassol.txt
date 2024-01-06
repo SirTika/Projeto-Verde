@@ -1,6 +1,6 @@
                 <article class="part1">
                     <h2>Girassol</h2>
-                    <p class="dificuldade">Dificuldade: <span class="dificuldadeNivel">Fácil</span></p>
+                    <p class="dificuldade">Dificuldade: <span class="dificuldadeFacil">Fácil</span></p>
                     <br>
                     <p>Cultivar girassóis é uma tarefa relativamente simples, tornando-os uma escolha popular para jardineiros de todos os níveis de experiência. Eles podem ser cultivados em vasos ou diretamente no solo.</p>
                     

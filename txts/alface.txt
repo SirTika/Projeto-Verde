@@ -1,6 +1,6 @@
                 <article class="part1">
                     <h2>Alface</h2>
-                    <p class="dificuldade">Dificuldade: <span class="dificuldadeNivel">Fácil</span></p>
+                    <p class="dificuldade">Dificuldade: <span class="dificuldadeFacil">Fácil</span></p>
                     <br> 
                     <p>Cultivar alface é uma tarefa muito fácil e prazerosa, que pode ser feita em pequenos espaços, como varandas, sacadas ou jardineiras. A alface é uma hortaliça que pode ser consumida em saladas, sanduíches, sopas e até mesmo sucos.</p>
                     

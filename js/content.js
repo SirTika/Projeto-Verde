@@ -16,8 +16,17 @@ document.addEventListener('DOMContentLoaded', function() {
                 fileName = 'txts/morango.txt';
             } else if (item.dataset.name === 'Suculenta Cactus Iniciantes') {
                 fileName = 'txts/suculenta.txt';
+            } else if (item.dataset.name === 'Espada de São Jorge Outros') {
+                fileName = 'txts/espada.txt';
+            } else if (item.dataset.name === 'Violeta Flores') {
+                fileName = 'txts/violeta.txt';
+            } else if (item.dataset.name === 'Samambaia Outros Iniciantes') {
+                fileName = 'txts/samambaia.txt';
+            } else if (item.dataset.name === 'Tomate Frutas Iniciantes') {
+                fileName = 'txts/tomate.txt';
+            } else if (item.dataset.name === 'Melancia Frutas') {
+                fileName = 'txts/melancia.txt';
             }
-            // e assim por diante para os outros itens
 
             fetch(fileName)
                 .then(response => response.text())

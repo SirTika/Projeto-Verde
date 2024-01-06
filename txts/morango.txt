@@ -1,6 +1,6 @@
             <article class="part1">
                 <h2>Morango</h2>
-                <p class="dificuldade">Dificuldade: <span class="dificuldadeNivel">Média</span></p>
+                <p class="dificuldade">Dificuldade: <span class="dificuldadeMedia">Média</span></p>
                 <br>
                 <p>Cultivar morangos é uma tarefa muito gratificante, pois além de serem frutas deliciosas e saudáveis, também enfeitam o jardim com suas flores brancas e frutos vermelhos. Eles podem ser cultivados em vasos, canos de PVC ou diretamente no solo.</p>
 

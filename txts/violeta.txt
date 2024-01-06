@@ -1,0 +1,46 @@
+            <article class="part1">
+                <h2>Violeta</h2>
+                <p class="dificuldade">Dificuldade: <span class="dificuldadeMedia">Média</span></p>
+                <br>
+                <p>Cultivar violetas é uma tarefa possivelmente complexa, pois elas são flores delicadas e perfumadas, que dão um toque de charme e elegância ao ambiente. Elas podem ser cultivadas em vasos, xícaras, latas ou diretamente no solo.</p>
+
+                <p>A violeta pode ser plantada em qualquer recipiente que tenha furos no fundo para garantir a drenagem. O tamanho do recipiente vai depender da espécie e do número de plantas que você deseja colocar. No solo, a violeta pode ser plantada em canteiros individuais ou em grupos, formando bordaduras ou maciços.</p>
+    
+                <p>Para plantar uma violeta, você precisa de um local ensolarado e um solo fértil e bem drenado. As mudas ou sementes devem ser plantadas a uma profundidade de aproximadamente 1 cm, e se você estiver plantando mais de uma violeta, deve deixar uma distância de pelo menos 10 cm entre cada planta. Após o plantio, é importante manter o solo úmido, mas não encharcado.</p>
+                <article class="img-box">
+                    <img src="assets/bgVioleta.jpg" alt="Violeta">
+                </article>
+            </article>
+            
+            <article class="part2">
+                <h1>Materiais necessários</h1>
+                <ul>
+                    <li>Mudas ou sementes de violeta</li>
+                    <li>Recipiente com furos ou espaço no jardim</li>
+                    <li>Terra</li>
+                    <li>Areia</li>
+                    <li>Pedrinhas</li>
+                    <li>Água</li>
+                    <li>Pá de jardinagem</li>
+                    <li>Fertilizante líquido (opcional)</li>
+                    <li>Tesoura</li>
+                </ul>
+
+                <h1>Passo a passo</h1>
+                <ol>
+                    <li>Escolha o local: Escolha um local que receba pelo menos quatro horas de luz solar direta por dia, mas cuidado, violetas não podem reber muito sol diretamente se não poderão morrer. Evite locais com vento forte ou sombra excessiva.</li>
+                    <br>
+                    <li>Prepare o solo: Se você estiver plantando em um recipiente, encha-o com uma camada de pedrinhas no fundo, para facilitar a drenagem. Em seguida, misture duas partes de terra com uma parte de areia e coloque sobre as pedrinhas, deixando cerca de 2 cm da borda livre. Se estiver plantando no jardim, remova quaisquer ervas daninhas ou pedras e solte a terra com uma pá de jardinagem. Você pode misturar um pouco de húmus de minhoca para enriquecer o solo.</li>
+                    <br>
+                    <li>Plante as mudas ou sementes: Faça um buraco de cerca de 1 cm de profundidade no solo. Coloque uma muda ou uma semente de violeta no buraco e cubra-a com terra. Se estiver plantando mais de uma violeta, deixe uma distância de pelo menos 10 cm entre cada planta para dar espaço para elas se desenvolverem.</li>
+                    <br>
+                    <li>Regue as plantas: Regue as plantas logo após o plantio, mas tenha cuidado para não encharcar o solo. A violeta gosta de solo úmido, mas não encharcado. Regue novamente quando o solo estiver seco ao toque, mas não deixe que ele fique ressecado.</li>
+                    <br>
+                    <li>Cuidado contínuo: Continue regando as plantas regularmente, mas sem excesso. Você pode adubar a violeta uma vez por mês com um fertilizante líquido diluído na água, seguindo as instruções do fabricante. Você também pode podar as pontas dos ramos para estimular o crescimento lateral e evitar que a violeta floresça, pois isso diminui o perfume das flores.</li>
+                    <br>
+                    <li>Colha as flores: Você pode colher as flores de violeta a qualquer momento, mas o ideal é fazer isso quando elas estiverem bem roxas e maduras. Você pode usar uma tesoura para cortar as flores com um pedaço do caule, para evitar que elas murchem rapidamente. Você pode usar as flores frescas ou secas para fazer arranjos, sachês, chás e muito mais!</li>
+                </ol>
+    
+                <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar violetas em pouco tempo!</p>
+                <p>Em caso de dúvidas ou sugestões, contate: <a href="mailto:projetoverde.suporte@gmail.com" target="_blank">projetoverde.suporte@gmail.com</a></p>
+            </article>

@@ -1,6 +1,6 @@
                 <article class="part1">
                     <h2>Manjericão</h2>
-                    <p class="dificuldade">Dificuldade: <span class="dificuldadeNivel">Fácil</span></p>
+                    <p class="dificuldade">Dificuldade: <span class="dificuldadeFacil">Fácil</span></p>
                     <br>
                     <p>Cultivar manjericão é uma tarefa muito prazerosa, pois além de ser uma erva aromática e saborosa, também traz benefícios para a saúde. O manjericão pode ser cultivado em vasos ou diretamente no solo, desde que tenha boa exposição ao sol.</p>
 

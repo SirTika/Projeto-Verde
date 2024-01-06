@@ -1,8 +1,8 @@
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1000px) and (min-width: 600px) {
     .box {
         display: flex;
         flex-direction: column;
-        height: 84vh;
+        height: 83vh;
         grid-template-rows: 35% 70%;
     }
 
