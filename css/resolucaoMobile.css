@@ -6,14 +6,15 @@
     
     
     body {
-        padding: 5px;
+        padding: 10px;
+        padding-top: 30px;
         margin: 0;
     }
     
     .box {
         display: flex;
         flex-direction: column;
-        height: 98.5vh;
+        height: 90vh;
         grid-template-rows: 35% 70%;
     }
 
@@ -31,13 +32,13 @@
         overflow-y: hidden;
     }
 
-    .scroll::-webkit-scrollbar {
-        height: 10px;
+    .tags::-webkit-scrollbar {
+        display: none;
     }
 
 /*carrossel*/
     .inner-box:nth-child(2) {
-        height: 120px;
+        height: 80px;
         flex: none;
     }
 
@@ -63,11 +64,19 @@
         width: 300px;
     }
 
+    .scroll::-webkit-scrollbar {
+        display: none;
+    }
+
 /*conteudo*/
     .inner-box:last-child {
         flex-grow: 1;
         overflow-y: auto;
         border-top: none;
         border-left: 1px solid;
+    }
+
+    .inner-box:last-child::-webkit-scrollbar {
+        display: none;
     }
 }
