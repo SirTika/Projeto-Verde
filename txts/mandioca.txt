@@ -1,0 +1,49 @@
+            <article class="part1">
+                <h2>Mandioca</h2>
+                <p class="dificuldade">Dificuldade: <span class="dificuldadeMedia">Média</span></p>
+                <br>
+                <p>Cultivar mandioca é uma tarefa muito interessante, pois ela é um tubérculo nutritivo e versátil, que pode ser usado em diversas receitas. Ela pode ser cultivada em vasos, jardineiras, estufas ou diretamente no solo.</p>
+
+                <p>A mandioca pode ser plantada em qualquer recipiente que tenha furos no fundo para garantir a drenagem. O tamanho do recipiente vai depender da espécie e do número de plantas que você deseja colocar. No solo, a mandioca pode ser plantada em canteiros individuais ou em grupos, formando fileiras ou treliças.</p>
+    
+                <p>Para plantar uma mandioca, você precisa de um local ensolarado e um solo fértil e bem drenado. As sementes ou mudas devem ser plantadas a uma profundidade de aproximadamente 2 cm, e se você estiver plantando mais de uma mandioca, deve deixar uma distância de pelo menos 50 cm entre cada planta. Após o plantio, é importante manter o solo úmido, mas não encharcado.</p>
+                <article class="img-box">
+                    <img src="assets/bgMandioca.jpg" alt="Mandioca">
+                </article>
+            </article>
+            
+            <article class="part2">
+                <h1>Materiais necessários</h1>
+                <ul>
+                    <li>Sementes ou mudas de mandioca</li>
+                    <li>Recipiente com furos ou espaço no jardim</li>
+                    <li>Terra</li>
+                    <li>Areia</li>
+                    <li>Pedrinhas</li>
+                    <li>Água</li>
+                    <li>Pá de jardinagem</li>
+                    <li>Fertilizante líquido (opcional)</li>
+                    <li>Tesoura</li>
+                    <li>Arame ou bambu (para fazer suporte)</li>
+                </ul>
+
+                <h1>Passo a passo</h1>
+                <ol>
+                    <li>Escolha o local: Escolha um local que receba pelo menos seis horas de luz solar direta por dia, pois a mandioca precisa de calor para crescer bem. Evite locais com vento forte ou sombra excessiva.</li>
+                    <br>
+                    <li>Prepare o solo: Se você estiver plantando em um recipiente, encha-o com uma camada de pedrinhas no fundo, para facilitar a drenagem. Em seguida, misture duas partes de terra com uma parte de areia e coloque sobre as pedrinhas, deixando cerca de 2 cm da borda livre. Se estiver plantando no jardim, remova quaisquer ervas daninhas ou pedras e solte a terra com uma pá de jardinagem. Você pode misturar um pouco de húmus de minhoca para enriquecer o solo.</li>
+                    <br>
+                    <li>Plante as sementes ou mudas: Faça um buraco de cerca de 2 cm de profundidade no solo. Coloque uma semente ou uma muda de mandioca no buraco e cubra-a com terra. Se estiver plantando mais de uma mandioca, deixe uma distância de pelo menos 50 cm entre cada planta para dar espaço para elas se desenvolverem.</li>
+                    <br>
+                    <li>Regue as plantas: Regue as plantas logo após o plantio, mas tenha cuidado para não encharcar o solo. A mandioca gosta de solo úmido, mas não encharcado. Regue novamente quando o solo estiver seco ao toque, mas não deixe que ele fique ressecado.</li>
+                    <br>
+                    <li>Cuidado contínuo: Continue regando as plantas regularmente, mas sem excesso. Você pode adubar a mandioca uma vez por mês com um fertilizante líquido diluído na água, seguindo as instruções do fabricante. Você também pode podar as pontas dos ramos para estimular o crescimento lateral e evitar que a mandioca fique muito ramificada.</li>
+                    <br>
+                    <li>Faça o suporte: Para evitar que os tubérculos toquem o solo e apodreçam, você pode fazer um suporte para a mandioqueira se apoiar. Você pode usar arame ou bambu para fazer uma estrutura vertical ou horizontal, dependendo do espaço disponível. Amarre os ramos da mandioqueira ao suporte com barbante ou fita, sem apertar demais.</li>
+                    <br>
+                    <li>Colha os tubérculos: Você pode colher os tubérculos de mandioca a qualquer momento, mas o ideal é fazer isso quando eles estiverem bem amarelos e maduros. Você pode usar uma tesoura para cortar os tubérculos com um pedaço do caule, para evitar que eles estraguem rapidamente. Você pode usar os tubérculos frescos ou conservados para fazer farinha, tapioca, polvilho e muito mais!</li>
+                </ol>
+    
+                <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar mandioca em pouco tempo!</p>
+                <p>Em caso de dúvidas ou sugestões, contate: <a href="mailto:projetoverde.suporte@gmail.com" target="_blank">projetoverde.suporte@gmail.com</a></p>
+            </article>

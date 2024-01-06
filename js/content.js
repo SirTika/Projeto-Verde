@@ -3,38 +3,38 @@ document.addEventListener('DOMContentLoaded', function() {
     var descriptionBox = document.querySelector('.content');
     var scrollableElement = document.querySelector('.inner-box:last-child');
 
+    var fileNames = {
+        'Girassol Flores Iniciantes': 'txts/girassol.txt',
+        'Alface Verduras Iniciantes': 'txts/alface.txt',
+        'Manjericão Verduras Iniciantes': 'txts/manjericao.txt',
+        'Morango Frutas Iniciantes': 'txts/morango.txt',
+        'Suculenta Cactus Iniciantes': 'txts/suculenta.txt',
+        'Espada de São Jorge Outros': 'txts/espada.txt',
+        'Violeta Flores': 'txts/violeta.txt',
+        'Samambaia Outros Iniciantes': 'txts/samambaia.txt',
+        'Tomate Frutas Iniciantes': 'txts/tomate.txt',
+        'Melancia Frutas': 'txts/melancia.txt',
+        'Copo de Leite Flores Iniciantes': 'txts/leite.txt',
+        'Abobora Frutas': 'txts/abobora.txt',
+        'Pepino Verduras': 'txts/pepino.txt',
+        'Batata Verduras Iniciantes': 'txts/batata.txt',
+        'Mandioca Verduras': 'txts/mandioca.txt',
+        'Couve Verduras Iniciantes': 'txts/couve.txt'
+    };
+
     items.forEach(function(item) {
         item.addEventListener('click', function() {
-            var fileName;
-            if (item.dataset.name === 'Girassol Flores Iniciantes') {
-                fileName = 'txts/girassol.txt';
-            } else if (item.dataset.name === 'Alface Verduras Iniciantes') {
-                fileName = 'txts/alface.txt';
-            } else if (item.dataset.name === 'Manjericão Verduras Iniciantes') {
-                fileName = 'txts/manjericao.txt';
-            } else if (item.dataset.name === 'Morango Frutas Iniciantes') {
-                fileName = 'txts/morango.txt';
-            } else if (item.dataset.name === 'Suculenta Cactus Iniciantes') {
-                fileName = 'txts/suculenta.txt';
-            } else if (item.dataset.name === 'Espada de São Jorge Outros') {
-                fileName = 'txts/espada.txt';
-            } else if (item.dataset.name === 'Violeta Flores') {
-                fileName = 'txts/violeta.txt';
-            } else if (item.dataset.name === 'Samambaia Outros Iniciantes') {
-                fileName = 'txts/samambaia.txt';
-            } else if (item.dataset.name === 'Tomate Frutas Iniciantes') {
-                fileName = 'txts/tomate.txt';
-            } else if (item.dataset.name === 'Melancia Frutas') {
-                fileName = 'txts/melancia.txt';
-            }
+            var fileName = fileNames[item.dataset.name];
 
-            fetch(fileName)
-                .then(response => response.text())
-                .then(data => {
-                    descriptionBox.innerHTML = data;
-                    scrollableElement.scrollTop = 0;
-                })
-                .catch(error => console.error(error));
+            if (fileName) {
+                fetch(fileName)
+                    .then(response => response.text())
+                    .then(data => {
+                        descriptionBox.innerHTML = data;
+                        scrollableElement.scrollTop = 0;
+                    })
+                    .catch(error => console.error(error));
+            }
         });
     });
 });

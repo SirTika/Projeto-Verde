@@ -1,6 +1,6 @@
             <article class="part1">
                 <h2>Melancia</h2>
-                <p class="dificuldade">Dificuldade: <span class="dificuldadeDificil">Difícil</span></p>
+                <p class="dificuldade">Dificuldade: <span class="dificuldadeAlta">Alta</span></p>
                 <br>
                 <p>Cultivar melancia é uma tarefa muito desafiadora, pois além de serem frutas grandes e pesadas, também exigem muito espaço e cuidado para se desenvolverem. Elas podem ser cultivadas em vasos grandes, canteiros elevados ou diretamente no solo.</p>
 
