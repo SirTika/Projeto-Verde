@@ -32,6 +32,7 @@
 .dificuldade {
     font-style: italic;
     line-height: 0;
+    white-space: nowrap;
 }
 
 .inner-box:last-child {
