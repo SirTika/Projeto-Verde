@@ -22,14 +22,17 @@
         height: 93px;
         flex: none;
     }
-    
+
     .tags {
         display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
         overflow-x: auto;
         overflow-y: hidden;
-        padding-left: 10vh;
+    }
+
+    .tagSearch {
+        font-size: 12px;
     }
 
     .tags::-webkit-scrollbar {
@@ -61,7 +64,7 @@
 
     .scroll div {
         flex: 0 0 auto;
-        width: 300px;
+        width: 200px;
     }
 
     .scroll::-webkit-scrollbar {
@@ -78,5 +81,36 @@
 
     .inner-box:last-child::-webkit-scrollbar {
         display: none;
+    }
+
+    .content {
+        padding: 30px;
+    }
+    
+    .part1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-right: 0;
+    }
+    
+    .part1 h2, .part1 .dificuldade {
+        order: -1;
+        line-height: 0;
+    }
+    
+    .part1 img {
+        order: 0;
+        position: relative;
+        top: 0;
+        height: auto;
+        width: 80vw;
+        border: solid 1px black;
+        background-color: white;
+        margin-left: 6.7vh;
+    }
+    
+    .part1 p {
+        order: 1;
     }
 }
