@@ -4,22 +4,31 @@ document.addEventListener('DOMContentLoaded', function() {
     var scrollableElement = document.querySelector('.inner-box:last-child');
 
     var fileNames = {
-        'Girassol Flores Iniciantes': 'txts/girassol.txt',
-        'Alface Verduras Iniciantes': 'txts/alface.txt',
-        'Manjericão Verduras Iniciantes': 'txts/manjericao.txt',
-        'Morango Frutas Iniciantes': 'txts/morango.txt',
-        'Suculenta Cactus Iniciantes': 'txts/suculenta.txt',
+        'Girassol Flores Facil': 'txts/girassol.txt',
+        'Alface Verduras Facil': 'txts/alface.txt',
+        'Manjericão Verduras Facil': 'txts/manjericao.txt',
+        'Morango Frutas Facil': 'txts/morango.txt',
+        'Suculenta Cactus Facil': 'txts/suculenta.txt',
         'Espada de São Jorge Outros': 'txts/espada.txt',
         'Violeta Flores': 'txts/violeta.txt',
-        'Samambaia Outros Iniciantes': 'txts/samambaia.txt',
-        'Tomate Frutas Iniciantes': 'txts/tomate.txt',
+        'Samambaia Outros Facil': 'txts/samambaia.txt',
+        'Tomate Frutas Facil': 'txts/tomate.txt',
         'Melancia Frutas': 'txts/melancia.txt',
-        'Copo de Leite Flores Iniciantes': 'txts/leite.txt',
+        'Copo de Leite Flores Facil': 'txts/leite.txt',
         'Abobora Frutas': 'txts/abobora.txt',
         'Pepino Verduras': 'txts/pepino.txt',
-        'Batata Verduras Iniciantes': 'txts/batata.txt',
+        'Batata Verduras Facil': 'txts/batata.txt',
         'Mandioca Verduras': 'txts/mandioca.txt',
-        'Couve Verduras Iniciantes': 'txts/couve.txt'
+        'Couve Verduras Facil': 'txts/couve.txt',
+        'Bromelia Flores': 'txts/bromelia.txt',
+        'Hibisco Flores': 'txts/hibisco.txt',
+        'Rosa Flores': 'txts/rosa.txt',
+        'Amora Frutas': 'txts/amora.txt',
+        'Acerola Frutas': 'txts/acerola.txt',
+        'Abacaxi Frutas': 'txts/abacaxi.txt',
+        'Orquídea Flores': 'txts/orquidea.txt',
+        'Cróton Outros': 'txts/croton.txt',
+        'Jibóia Outros': 'txts/jiboia.txt',
     };
 
     items.forEach(function(item) {

@@ -26,7 +26,7 @@
 
 /*carrossel*/
     .inner-box:nth-child(2) {
-        height: 120px;
+        height: 90px;
         flex: none;
     }
 
@@ -61,8 +61,35 @@
     }
 }
 
-@media only screen and (max-width: 1360px) {
-    .box {
-        grid-template-rows: 35% 70%;
+@media only screen and (max-width: 1200px) and (min-width: 1000px) {
+    .content {
+        padding: 30px;
+    }
+    
+    .part1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-right: 0;
+    }
+    
+    .part1 h2, .part1 .dificuldade {
+        order: -1;
+        line-height: 0;
+    }
+    
+    .part1 img {
+        order: 0;
+        position: relative;
+        top: 0;
+        height: auto;
+        width: 50vh;
+        border: solid 1px black;
+        background-color: white;
+        margin-left: 6.7vh;
+    }
+    
+    .part1 p {
+        order: 1;
     }
 }

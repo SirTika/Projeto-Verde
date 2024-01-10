@@ -1,0 +1,45 @@
+            <article class="part1">
+                <h2>Abacaxi</h2>
+                <p class="dificuldade">Dificuldade: <span class="dificuldadeMedia">Média</span></p>
+                <br>
+                <p>O abacaxi (Ananas comosus) é uma infrutescência produzida pela planta de mesmo nome, que pertence à família das bromeliáceas. O abacaxi tem uma casca grossa e espinhosa, uma polpa amarela e suculenta e um sabor levemente ácido e adocicado. O abacaxi é rico em vitamina C, um nutriente com propriedades antioxidantes e imunológicas que ajuda a fortalecer o sistema imunológico e prevenir o envelhecimento precoce. Além disso, o abacaxi contém vitaminas A, B1, B6, cálcio, magnésio, ferro e fibras, sendo benéfico para a saúde da pele, dos olhos, do sangue e do intestino. O abacaxi pode ser consumido in natura ou usado em receitas, como sucos, geleias, sorvetes, bolos, entre outros.</p>
+
+                <p>O abacaxi pode ser plantado em vasos de cerâmica ou barro, que tenham entre 20 a 30 cm de largura ou diâmetro. No solo, os abacaxis podem ser plantados em canteiros individuais ou em fileiras, formando cercas vivas ou trepadeiras. O abacaxi precisa de um local com boa luminosidade e umidade, mas sem sol direto, que pode queimar as folhas e os frutos.</p>
+    
+                <p>Para plantar um abacaxi, você precisa de um solo bem drenado e rico em matéria orgânica. As mudas, sementes ou estacas devem ser plantadas em um substrato leve e fértil, que pode ser composto por cascas de pinus, fibra de coco, areia e húmus de minhoca. Se você estiver plantando mais de um abacaxi, deve deixar uma distância de pelo menos 50 cm entre cada planta. Após o plantio, é importante regar a planta com frequência, mas sem encharcar o substrato.</p>
+                <article class="img-box">
+                    <img src="assets/bgAbacaxi.jpg" alt="Abacaxi">
+                </article>
+            </article>
+            
+            <article class="part2">
+                <h1>Materiais necessários</h1>
+                <ul>
+                    <li>Mudas, sementes ou estacas de abacaxi</li>
+                    <li>Vaso ou espaço no jardim</li>
+                    <li>Substrato</li>
+                    <li>Água</li>
+                    <li>Pá de jardinagem</li>
+                    <li>Arame ou bambu (opcional)</li>
+                </ul>
+
+                <h1>Passo a passo</h1>
+                <ol>
+                    <li>Escolha o tipo de abacaxi para plantar. Há cerca de 10 espécies de abacaxis, que variam em tamanho, cor e sabor. Algumas são mais adequadas para climas quentes e tropicais, enquanto outras são mais resistentes ao frio e às geadas. Verifique as características da sua espécie antes de plantar.</li>
+                    <br>
+                    <li>Prepare o substrato. Se você estiver plantando em um vaso, encha-o com um substrato leve e bem drenado, que pode ser composto por cascas de pinus, fibra de coco, areia e húmus de minhoca. Se estiver plantando no solo, misture esses materiais ao solo nativo para melhorar a aeração e a fertilidade.</li>
+                    <br>
+                    <li>Plante as mudas, sementes ou estacas. Faça um buraco de cerca de 5 cm de profundidade no substrato. Coloque uma muda, semente ou estaca de abacaxi no buraco e cubra-a com substrato. Se estiver plantando mais de um abacaxi, deixe uma distância de pelo menos 50 cm entre cada planta para dar espaço para elas crescerem.</li>
+                    <br>
+                    <li>Regue as plantas. Regue as plantas com frequência, mantendo o substrato úmido, mas não encharcado. O excesso de água pode causar o apodrecimento das raízes e o surgimento de fungos.</li>
+                    <br>
+                    <li>Adube as plantas. Adube as plantas uma vez por mês, usando um adubo orgânico bem equilibrado. Você pode aplicar o adubo no substrato ou nas folhas, seguindo as instruções do fabricante.</li>
+                    <br>
+                    <li>Cuidado contínuo. Continue cuidando das suas plantas, observando se elas estão saudáveis e livres de pragas e doenças. Se você notar algum problema, use uma solução de água e sabão de coco para combater os insetos, ou lave as folhas com água e vinagre para eliminar os fungos.</li>
+                    <br>
+                    <li>Acompanhe o crescimento. Os abacaxis podem levar de 12 a 18 meses para florescer, dependendo da espécie. Eles florescem uma vez na vida, mas produzem frutos várias vezes, desde que sejam bem cuidados. Acompanhe o crescimento e colha os seus abacaxis!</li>
+                </ol>
+    
+                <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar abacaxis em pouco tempo!</p>
+                <p>Em caso de dúvidas ou sugestões, contate: <a href="mailto:projetoverde.suporte@gmail.com" target="_blank">projetoverde.suporte@gmail.com</a></p>
+            </article>

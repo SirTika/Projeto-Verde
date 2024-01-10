@@ -29,6 +29,7 @@
         flex-wrap: nowrap;
         overflow-x: auto;
         overflow-y: hidden;
+        padding-left: 10vh;
     }
 
     .tags::-webkit-scrollbar {

@@ -1,0 +1,45 @@
+            <article class="part1">
+                <h2>Orquídea</h2>
+                <p class="dificuldade">Dificuldade: <span class="dificuldadeMedia">Média</span></p>
+                <br>
+                <p>Cultivar orquídeas é uma tarefa que requer alguns cuidados especiais, mas que pode trazer muita beleza e charme para o seu jardim ou varanda. Elas podem ser cultivadas em vasos ou diretamente no solo.</p>
+
+                <p>A orquídea pode ser plantada em vasos de cerâmica ou barro, que tenham entre 20 a 30 cm de largura ou diâmetro. No solo, as orquídeas podem ser plantadas em canteiros individuais ou em grupos, formando bordas, maciços ou arcos.</p>
+    
+                <p>Para plantar uma orquídea, você precisa de um local com boa luminosidade e ventilação, mas sem sol direto, que pode queimar as folhas e as flores. As mudas, sementes ou estacas devem ser plantadas em um substrato leve e fértil, que pode ser composto por cascas de pinus, musgo de esfagno, fibra de coco, carvão, perlita ou isopor. Se você estiver plantando mais de uma orquídea, deve deixar uma distância de pelo menos 20 cm entre cada planta. Após o plantio, é importante regar a planta com frequência, mas sem encharcar o substrato.</p>
+                <article class="img-box">
+                    <img src="assets/bgOrquidea.jpg" alt="Orquídea">
+                </article>
+            </article>
+            
+            <article class="part2">
+                <h1>Materiais necessários</h1>
+                <ul>
+                    <li>Mudas, sementes ou estacas de orquídea</li>
+                    <li>Vaso ou espaço no jardim</li>
+                    <li>Substrato</li>
+                    <li>Água</li>
+                    <li>Pá de jardinagem</li>
+                    <li>Tesoura de poda (opcional)</li>
+                </ul>
+
+                <h1>Passo a passo</h1>
+                <ol>
+                    <li>Escolha o tipo de orquídea para plantar. Há cerca de 30 mil espécies de orquídeas, que variam em tamanho, cor e forma. Algumas são mais fáceis de cultivar do que outras. Orquídeas Cattleya, Phalaenopsis e Paphiopedilum estão entre as mais indicadas para a maioria dos jardineiros iniciantes e cultivadores de orquídeas.</li>
+                    <br>
+                    <li>Prepare o substrato. Se você estiver plantando em um vaso, encha-o com um substrato leve e bem drenado, que pode ser composto por cascas de pinus, musgo de esfagno, fibra de coco, carvão, perlita ou isopor. Se estiver plantando no solo, misture esses materiais ao solo nativo para melhorar a aeração e a fertilidade.</li>
+                    <br>
+                    <li>Plante as mudas, sementes ou estacas. Faça um buraco de cerca de 5 cm de profundidade no substrato. Coloque uma muda, semente ou estaca de orquídea no buraco e cubra-a com substrato. Se estiver plantando mais de uma orquídea, deixe uma distância de pelo menos 20 cm entre cada planta para dar espaço para elas crescerem.</li>
+                    <br>
+                    <li>Regue as plantas. Regue as plantas com frequência, mantendo o substrato úmido, mas não encharcado. O excesso de água pode causar o apodrecimento das raízes e o surgimento de fungos.</li>
+                    <br>
+                    <li>Adube as plantas. Adube as plantas uma vez por mês, usando um adubo orgânico bem equilibrado. Você pode aplicar o adubo no substrato ou nas folhas, seguindo as instruções do fabricante.</li>
+                    <br>
+                    <li>Cuidado contínuo. Continue cuidando das suas plantas, observando se elas estão saudáveis e livres de pragas e doenças. Se você notar algum problema, use uma solução de água e sabão de coco para combater os insetos, ou lave as folhas com água e vinagre para eliminar os fungos.</li>
+                    <br>
+                    <li>Acompanhe o crescimento. As orquídeas podem levar de alguns meses a alguns anos para florescer, dependendo da espécie. Elas florescem várias vezes na vida, mas precisam de podas regulares para estimular novas florações. Acompanhe o crescimento e admire a beleza das suas orquídeas!</li>
+                </ol>
+    
+                <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar orquídeas em pouco tempo!</p>
+                <p>Em caso de dúvidas ou sugestões, contate: <a href="mailto:projetoverde.suporte@gmail.com" target="_blank">projetoverde.suporte@gmail.com</a></p>
+            </article>

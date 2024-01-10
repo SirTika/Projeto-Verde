@@ -1,0 +1,45 @@
+            <article class="part1">
+                <h2>Jiboia</h2>
+                <p class="dificuldade">Dificuldade: <span class="dificuldadeFacil">Fácil</span></p>
+                <br>
+                <p>A jiboia (Epipremnum pinnatum) é uma planta de origem tropical, nativa da região das ilhas do Pacífico e da Malásia. A jiboia se destaca pelas suas folhas brilhantes e atrativas, que podem apresentar tons de verde, amarelo, laranja, vermelho, rosa e roxo, em diferentes padrões e formas. A jiboia é uma planta que pode alcançar até três metros de altura, mas que também pode ser cultivada em vasos menores, com um formato mais compacto. A jiboia é uma planta que traz vida e alegria para qualquer ambiente, seja interno ou externo</p>
+
+                <p>A jiboia pode ser plantada em vasos de cerâmica ou barro, que tenham entre 20 a 30 cm de largura ou diâmetro. No solo, as jiboias podem ser plantadas em canteiros individuais ou em grupos, formando bordas, maciços ou arcos. A jiboia precisa de um local com boa luminosidade e umidade, mas sem sol direto, que pode queimar as folhas e os frutos.</p>
+    
+                <p>Para plantar uma jiboia, você precisa de um solo bem drenado e rico em matéria orgânica. As mudas, sementes ou estacas devem ser plantadas em um substrato leve e fértil, que pode ser composto por cascas de pinus, musgo de esfagno, fibra de coco, carvão, perlita ou isopor. Se você estiver plantando mais de uma jiboia, deve deixar uma distância de pelo menos 20 cm entre cada planta. Após o plantio, é importante regar a planta com frequência, mas sem encharcar o substrato.</p>
+                <article class="img-box">
+                    <img src="assets/bgJiboia.jpg" alt="Jiboia">
+                </article>
+            </article>
+            
+            <article class="part2">
+                <h1>Materiais necessários</h1>
+                <ul>
+                    <li>Mudas, sementes ou estacas de jiboia</li>
+                    <li>Vaso ou espaço no jardim</li>
+                    <li>Substrato</li>
+                    <li>Água</li>
+                    <li>Pá de jardinagem</li>
+                    <li>Arame ou bambu (opcional)</li>
+                </ul>
+
+                <h1>Passo a passo</h1>
+                <ol>
+                    <li>Escolha o tipo de jiboia para plantar. Há cerca de 10 espécies de jiboias, que variam em tamanho, cor e forma. Algumas são mais adequadas para climas quentes e tropicais, enquanto outras são mais resistentes ao frio e às geadas. Verifique as características da sua espécie antes de plantar.</li>
+                    <br>
+                    <li>Prepare o substrato. Se você estiver plantando em um vaso, encha-o com um substrato leve e bem drenado, que pode ser composto por cascas de pinus, musgo de esfagno, fibra de coco, carvão, perlita ou isopor. Se estiver plantando no solo, misture esses materiais ao solo nativo para melhorar a aeração e a fertilidade.</li>
+                    <br>
+                    <li>Plante as mudas, sementes ou estacas. Faça um buraco de cerca de 5 cm de profundidade no substrato. Coloque uma muda, semente ou estaca de jiboia no buraco e cubra-a com substrato. Se estiver plantando mais de uma jiboia, deixe uma distância de pelo menos 20 cm entre cada planta para dar espaço para elas crescerem.</li>
+                    <br>
+                    <li>Regue as plantas. Regue as plantas com frequência, mantendo o substrato úmido, mas não encharcado. O excesso de água pode causar o apodrecimento das raízes e o surgimento de fungos.</li>
+                    <br>
+                    <li>Adube as plantas. Adube as plantas uma vez por mês, usando um adubo orgânico bem equilibrado. Você pode aplicar o adubo no substrato ou nas folhas, seguindo as instruções do fabricante.</li>
+                    <br>
+                    <li>Cuidado contínuo. Continue cuidando das suas plantas, observando se elas estão saudáveis e livres de pragas e doenças. Se você notar algum problema, use uma solução de água e sabão de coco para combater os insetos, ou lave as folhas com água e vinagre para eliminar os fungos.</li>
+                    <br>
+                    <li>Acompanhe o crescimento. As jiboias podem levar de 6 a 12 meses para florescer, dependendo da espécie. Elas florescem várias vezes na vida, mas precisam de podas regulares para estimular novas florações e frutificações. Acompanhe o crescimento e admire a beleza das suas jiboias!</li>
+                </ol>
+    
+                <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar jiboias em pouco tempo!</p>
+                <p>Em caso de dúvidas ou sugestões, contate: <a href="mailto:projetoverde.suporte@gmail.com" target="_blank">projetoverde.suporte@gmail.com</a></p>
+            </article>

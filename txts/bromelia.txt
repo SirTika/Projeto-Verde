@@ -1,0 +1,45 @@
+            <article class="part1">
+                <h2>Bromélia</h2>
+                <p class="dificuldade">Dificuldade: <span class="dificuldadeMedia">Média</span></p>
+                <br>
+                <p>Cultivar bromélias é uma tarefa que requer alguns cuidados especiais, mas que pode trazer muita beleza e exotismo para o seu jardim ou varanda. Elas podem ser cultivadas em vasos, no solo ou até mesmo em árvores.</p>
+
+                <p>A bromélia pode ser plantada em vasos de cerâmica ou barro, que tenham entre 20 a 30 cm de largura ou diâmetro. No solo, as bromélias podem ser plantadas em canteiros individuais ou em grupos. Em árvores, as bromélias podem ser amarradas com barbante ou arame, desde que não machuquem o tronco.</p>
+    
+                <p>Para plantar uma bromélia, você precisa de um local com boa luminosidade e umidade. As sementes ou mudas devem ser plantadas em um substrato leve e rico em matéria orgânica. Se você estiver plantando mais de uma bromélia, deve deixar uma distância de pelo menos 20 cm entre cada planta. Após o plantio, é importante regar a planta com frequência, mas sem encharcar o substrato.</p>
+                <article class="img-box">
+                    <img src="assets/bgBromelia.jpg" alt="Bromélia">
+                </article>
+            </article>
+            
+            <article class="part2">
+                <h1>Materiais necessários</h1>
+                <ul>
+                    <li>Sementes ou mudas de bromélia</li>
+                    <li>Vaso, espaço no jardim ou árvore</li>
+                    <li>Substrato</li>
+                    <li>Água</li>
+                    <li>Pá de jardinagem</li>
+                    <li>Barbante ou arame (opcional)</li>
+                </ul>
+
+                <h1>Passo a passo</h1>
+                <ol>
+                    <li>Escolha o local: Escolha um local que receba luz indireta ou filtrada, pois as bromélias não toleram sol direto. Algumas espécies podem ser cultivadas em sombra, mas outras preferem áreas mais claras. Verifique as necessidades da sua espécie antes de plantar.</li>
+                    <br>
+                    <li>Prepare o substrato: Se você estiver plantando em um vaso, encha-o com um substrato leve e bem drenado, que pode ser composto por cascas de pinus, fibra de coco, areia e húmus de minhoca. Se estiver plantando no solo, misture esses materiais ao solo nativo para melhorar a aeração e a fertilidade. Se estiver plantando em uma árvore, não é necessário usar substrato, apenas amarre a planta com cuidado.</li>
+                    <br>
+                    <li>Plante as sementes ou mudas: Faça um buraco de cerca de 5 cm de profundidade no substrato. Coloque uma semente ou muda de bromélia no buraco e cubra-a com substrato. Se estiver plantando mais de uma bromélia, deixe uma distância de pelo menos 20 cm entre cada planta para dar espaço para elas crescerem.</li>
+                    <br>
+                    <li>Regue as plantas: Regue as plantas com frequência, mantendo o substrato úmido, mas não encharcado. Além disso, borrife água nas folhas e no centro da planta, onde se forma uma espécie de copo. Essa parte da planta acumula água e nutrientes, por isso é importante mantê-la sempre cheia. Nos dias mais frios, evite deixar água parada para não apodrecer a planta.</li>
+                    <br>
+                    <li>Adube as plantas: Adube as plantas uma vez por mês, usando um adubo orgânico bem equilibrado. Você pode aplicar o adubo no substrato ou nas folhas, seguindo as instruções do fabricante.</li>
+                    <br>
+                    <li>Cuidado contínuo: Continue cuidando das suas plantas, observando se elas estão saudáveis e livres de pragas e doenças. Se você notar algum problema, use uma solução de fumo diluída em água para combater os insetos, ou lave as folhas com água e sabão de coco para eliminar os fungos. Para evitar a proliferação do mosquito da dengue, adicione um pouco de pó de café no centro da planta.</li>
+                    <br>
+                    <li>Acompanhe o crescimento: As bromélias podem levar de alguns meses a alguns anos para florescer, dependendo da espécie. Elas florescem apenas uma vez na vida, mas emitem brotos laterais que podem ser separados e replantados. Acompanhe o crescimento e admire a beleza das suas bromélias!</li>
+                </ol>
+    
+                <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar bromélias em pouco tempo!</p>
+                <p>Em caso de dúvidas ou sugestões, contate: <a href="mailto:projetoverde.suporte@gmail.com" target="_blank">projetoverde.suporte@gmail.com</a></p>
+            </article>

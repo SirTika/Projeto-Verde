@@ -1,0 +1,45 @@
+            <article class="part1">
+            <h2>Amora</h2>
+            <p class="dificuldade">Dificuldade: <span class="dificuldadeFacil">Fácil</span></p>
+            <br>
+            <p>Cultivar amora é uma tarefa relativamente simples que pode trazer muita saúde e sabor para o seu jardim ou varanda. A amora é uma fruta que contém antioxidantes, vitaminas, fibras e minerais, sendo benéfica para a prevenção de doenças e o fortalecimento do sistema imunológico. Além disso, a amora pode ser consumida in natura ou utilizada na preparação de sucos, geleias, sorvetes, bolos, entre outros.</p>
+
+                <p>A amora pode ser plantada em vasos de cerâmica ou barro, que tenham entre 20 a 30 cm de largura ou diâmetro. No solo, as amoras podem ser plantadas em canteiros individuais ou em fileiras, formando cercas vivas ou trepadeiras. A amora precisa de um local com boa luminosidade e umidade, mas sem sol direto, que pode queimar as folhas e os frutos.</p>
+    
+                <p>Para plantar uma amora, você precisa de um solo bem drenado e rico em matéria orgânica. As sementes, mudas ou estacas devem ser plantadas em um substrato leve e fértil, que pode ser composto por cascas de pinus, fibra de coco, areia e húmus de minhoca. Se você estiver plantando mais de uma amora, deve deixar uma distância de pelo menos 50 cm entre cada planta. Após o plantio, é importante regar a planta com frequência, mas sem encharcar o substrato.</p>
+                <article class="img-box">
+                    <img src="assets/bgAmora.jpg" alt="Amora">
+                </article>
+            </article>
+            
+            <article class="part2">
+                <h1>Materiais necessários</h1>
+                <ul>
+                    <li>Sementes, mudas ou estacas de amora</li>
+                    <li>Vaso ou espaço no jardim</li>
+                    <li>Substrato</li>
+                    <li>Água</li>
+                    <li>Pá de jardinagem</li>
+                    <li>Arame ou bambu (opcional)</li>
+                </ul>
+
+                <h1>Passo a passo</h1>
+                <ol>
+                    <li>Escolha o tipo de amora para plantar. Há cerca de 10 espécies de amoras, que variam em tamanho, cor e sabor. Algumas são mais adequadas para climas quentes e tropicais, enquanto outras são mais resistentes ao frio e às geadas. Verifique as características da sua espécie antes de plantar.</li>
+                    <br>
+                    <li>Prepare o substrato. Se você estiver plantando em um vaso, encha-o com um substrato leve e bem drenado, que pode ser composto por cascas de pinus, fibra de coco, areia e húmus de minhoca. Se estiver plantando no solo, misture esses materiais ao solo nativo para melhorar a aeração e a fertilidade.</li>
+                    <br>
+                    <li>Plante as sementes, mudas ou estacas. Faça um buraco de cerca de 5 cm de profundidade no substrato. Coloque uma semente, muda ou estaca de amora no buraco e cubra-a com substrato. Se estiver plantando mais de uma amora, deixe uma distância de pelo menos 50 cm entre cada planta para dar espaço para elas crescerem.</li>
+                    <br>
+                    <li>Regue as plantas. Regue as plantas com frequência, mantendo o substrato úmido, mas não encharcado. O excesso de água pode causar o apodrecimento das raízes e o surgimento de fungos.</li>
+                    <br>
+                    <li>Adube as plantas. Adube as plantas uma vez por mês, usando um adubo orgânico bem equilibrado. Você pode aplicar o adubo no substrato ou nas folhas, seguindo as instruções do fabricante.</li>
+                    <br>
+                    <li>Cuidado contínuo. Continue cuidando das suas plantas, observando se elas estão saudáveis e livres de pragas e doenças. Se você notar algum problema, use uma solução de água e sabão de coco para combater os insetos, ou lave as folhas com água e vinagre para eliminar os fungos.</li>
+                    <br>
+                    <li>Acompanhe o crescimento. As amoras podem levar de 6 a 12 meses para florescer, dependendo da espécie. Elas florescem várias vezes na vida, mas precisam de podas regulares para estimular novas florações e frutificações. Acompanhe o crescimento e colha as suas amoras!</li>
+                </ol>
+    
+                <p>Lembre-se, a jardinagem é um processo de aprendizado. Não se preocupe se as coisas não saírem perfeitas na primeira vez. Com prática e paciência, você se tornará um especialista em cultivar amoras em pouco tempo!</p>
+                <p>Em caso de dúvidas ou sugestões, contate: <a href="mailto:projetoverde.suporte@gmail.com" target="_blank">projetoverde.suporte@gmail.com</a></p>
+            </article>

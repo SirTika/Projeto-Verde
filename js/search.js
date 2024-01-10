@@ -15,7 +15,7 @@ document.querySelector('input[name="search"]').addEventListener('input', functio
 function selectTag(button) {
     var buttons = document.getElementsByClassName('tagSearch');
     for (var i = 0; i < buttons.length; i++) {
-        if (buttons[i] !== button && buttons[i].innerHTML !== 'Iniciantes') {
+        if (buttons[i] !== button && buttons[i].innerHTML !== 'Facil') {
             buttons[i].classList.remove('selected');
         }
     }
@@ -23,8 +23,8 @@ function selectTag(button) {
     filterItems();
 }
 
-function toggleIniciantes(button) {
-    if (button.innerHTML === 'Iniciantes') {
+function toggleFacil(button) {
+    if (button.innerHTML === 'Facil') {
         button.classList.toggle('selected');
         filterItems();
     }
