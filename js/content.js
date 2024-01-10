@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'Bromelia Flores': 'txts/bromelia.txt',
         'Hibisco Flores': 'txts/hibisco.txt',
         'Rosa Flores': 'txts/rosa.txt',
-        'Amora Frutas': 'txts/amora.txt',
+        'Amora Frutas Facil': 'txts/amora.txt',
         'Acerola Frutas': 'txts/acerola.txt',
         'Abacaxi Frutas': 'txts/abacaxi.txt',
         'Orquídea Flores': 'txts/orquidea.txt',
