@@ -15,7 +15,7 @@ document.querySelector('input[name="search"]').addEventListener('input', functio
 function selectTag(button) {
     var buttons = document.getElementsByClassName('tagSearch');
     for (var i = 0; i < buttons.length; i++) {
-        if (buttons[i] !== button && buttons[i].innerHTML !== 'Facil') {
+        if (buttons[i] !== button && buttons[i].innerHTML !== 'Fácil') {
             buttons[i].classList.remove('selected');
         }
     }
@@ -24,7 +24,7 @@ function selectTag(button) {
 }
 
 function toggleFacil(button) {
-    if (button.innerHTML === 'Facil') {
+    if (button.innerHTML === 'Fácil') {
         button.classList.toggle('selected');
         filterItems();
     }
